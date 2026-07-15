@@ -1,0 +1,6 @@
+{
+  "name": "To-Do List",
+  "description": "A modern, responsive, and elegant SaaS-style task management app with offline persistence and themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
